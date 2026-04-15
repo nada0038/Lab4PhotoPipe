@@ -1,4 +1,7 @@
 # PhotoPipe — Event-Driven Image Processing
+## Akash Nadackanal Vinod (041156265)
+## Demo Video
+[Lab 04 Youtube Demo](https://youtu.be/YAj_FJNCUyw)
 
 This project implements an event-driven image processing pipeline using Azure Event Grid and Azure Functions. It processes images uploaded to Azure Blob Storage, generating metadata and thumbnails, and logs processing events for auditing.
 
@@ -25,6 +28,3 @@ This project implements an event-driven image processing pipeline using Azure Ev
    - Open `client.html`.
    - Update the configuration constants (`Storage Account Name`, `SAS Token`, `Function App URL`).
    - Run the client and upload images.
-
-## Demo Video
-[Link to YouTube Demo]
