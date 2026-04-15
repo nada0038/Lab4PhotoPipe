@@ -1,4 +1,4 @@
-# PhotoPipe — Event-Driven Image Processing
+# LAB 04 PhotoPipe — Event-Driven Image Processing
 ## Akash Nadackanal Vinod (041156265)
 ## Demo Video
 [Lab 04 Youtube Demo](https://youtu.be/YAj_FJNCUyw)
